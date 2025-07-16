@@ -11,4 +11,5 @@ def contador_personalizado():
                 print("Contador atingiu o limite")
                 break
     except ValueError:
+        
         print("Entrada invalida. Por favor insira um numero inteiro.")
