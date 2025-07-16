@@ -17,5 +17,7 @@ def gerador_de_senhas(tamanho):
         
     print(f"Sua senha ficou assim: {senha}")   
 gerador_de_senhas(30)
+
+# não repetir o print para evitar o erro "none"
         
         
