@@ -10,3 +10,4 @@
 - [x] Dia 8 - Função que verifica se uma pessoa pode dirigir
 - [x] Dia 9 - Contador personalizado
 - [x] Dia 10 - Gerador de senhas
+- [x] Dia 11 - Usamos a função sorted para ordenar uma lista de numeros
