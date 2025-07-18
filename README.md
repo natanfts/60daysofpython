@@ -11,3 +11,4 @@
 - [x] Dia 9 - Contador personalizado
 - [x] Dia 10 - Gerador de senhas
 - [x] Dia 11 - Usamos a função sorted para ordenar uma lista de numeros
+- [x] Dia 12 - Busca linear utilizando listas
